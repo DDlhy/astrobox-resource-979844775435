@@ -1,0 +1,60 @@
+{
+  "item": {
+    "id": "979844775435",
+    "restype": "watchface",
+    "name": "WavAudio音乐管理器",
+    "description": "用于管理导入的WavAudio音乐的功能性表盘，一键清爽管理删除，设备升级也能用，小米手环9及以上全部支持，对其他音乐播放器无效果。",
+    "preview": [
+      "media/下载 (4)-tuya-tuya.png",
+      "media/下载 (3)-tuya-tuya.png",
+      "media/下载 (2)-tuya-tuya.png"
+    ],
+    "icon": "media/下载 (1).png",
+    "cover": "media/下载 (6).png",
+    "author": [
+      {
+        "name": "lhy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band10.face",
+      "versionCode": 2560
+    },
+    "xmb10nfc": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band10.face",
+      "versionCode": 2560
+    },
+    "xmb10p": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band10pro.face",
+      "versionCode": 2560
+    },
+    "xmb11": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band11.face",
+      "versionCode": 2560
+    },
+    "xmb11nfc": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band11.face",
+      "versionCode": 2560
+    },
+    "xmb9": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band9.face",
+      "versionCode": 2560
+    },
+    "xmb9p": {
+      "version": "0.10.0",
+      "file_name": "downloads/WavAudio-band9pro.face",
+      "versionCode": 2560
+    }
+  },
+  "ext": {}
+}
